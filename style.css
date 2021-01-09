@@ -1,0 +1,49 @@
+body {
+    font-family: 'Kosugi Maru', sans-serif;
+    text-align: center;
+    background-color: #fff3e2;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+
+  h1 {
+    background-color: white;
+    color: chocolate;
+    padding: 10px;
+    border: 5px;
+    border-top
+  }
+
+  article {
+    padding-top: 30px;
+  }
+
+  .colorfun {}
+
+  button {
+    font-family: 'Kosugi Maru', sans-serif;
+    text-align: center;
+    outline: 0;
+    width: 60px;
+    height: 60px;
+    padding: 0;
+    background: #fff;
+    border-radius: 50%;
+    border-color: orange;
+    color: chocolate;
+    font-weight: 900;
+    font-size: 20px;
+  }
+
+  img {
+    padding-left: 40px;
+    padding-right: 40px;
+    border: 2px;
+    border-color: #b27d58;
+  }
+
+  table {
+    margin-right: auto;
+    margin-left: auto;
+  }
